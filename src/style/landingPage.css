@@ -1,0 +1,47 @@
+.myBG {
+    height: 100vh;
+    background: url("../assets/Image/bg/bg.jpg");
+    background-size: cover;
+}
+
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px blue;
+    letter-spacing: 4px;
+}
+
+.indo {
+    height: auto;
+    background: url("../assets/Image/bg/indo.jpg");
+    background-size: cover;
+}
+
+.luar {
+    height: auto;
+    background: url("../assets/Image/bg/luar.jpg");
+    background-size: cover;    
+}
+
+.movieWrapper {
+
+}
+
+.movieImage {
+    height: auto;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.images {
+    height: 500px;
+}
