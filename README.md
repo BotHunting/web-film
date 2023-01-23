@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Donate
+
+<a href="https://trakteer.id/hunty" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-blue-6.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
+
+## License
+
+[MIT License](https://github.com/BotHunting/Wa-OpenAI/blob/main/LICENSE)
+
+Copyright (c) 2023 Bot Hunting
